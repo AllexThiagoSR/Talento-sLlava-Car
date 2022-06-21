@@ -1,0 +1,3 @@
+Sisteminha simples que fiz para o lava à jato do meu padrasto:
+ -"Banco de dados", utilizando arquivos de texto.
+ -Relatórios mensais e de todos os meses juntos.

@@ -1,0 +1,23 @@
+{
+ "Janeiro": [],
+ "Fevereiro": [],
+ "Marco": [],
+ "Abril": [],
+ "Maio": [],
+ "Junho": [
+  [
+   "20 de Junho de 2022 - Segunda",
+   [
+    "Carro;7",
+    "Moto;3"
+   ],
+   360.0
+  ]
+ ],
+ "Julho": [],
+ "Agosto": [],
+ "Setembro": [],
+ "Outubro": [],
+ "Novembro": [],
+ "Dezembro": []
+}
