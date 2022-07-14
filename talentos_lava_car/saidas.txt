@@ -1,0 +1,62 @@
+{
+ "Janeiro": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Fevereiro": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Marco": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Abril": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Maio": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Junho": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Julho": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Agosto": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Setembro": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Outubro": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Novembro": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ },
+ "Dezembro": {
+  "Funcionarios": {},
+  "Materiais": 0,
+  "Agua/Energia": 0
+ }
+}

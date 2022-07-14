@@ -12,9 +12,177 @@
     "Moto;3"
    ],
    360.0
+  ],
+  [
+   "21 de Junho de 2022 - Terca",
+   [
+    "Carro;3",
+    "Moto;1"
+   ],
+   160.0
+  ],
+  [
+   "22 de Junho de 2022 - Quarta",
+   [
+    "Carro;3",
+    "Carro;1"
+   ],
+   190.0
+  ],
+  [
+   "23 de Junho de 2022 - Quinta",
+   [
+    "Carro;1",
+    "Moto;2"
+   ],
+   80.0
+  ],
+  [
+   "24 de Junho de 2022 - Sexta",
+   [
+    "Moto;2",
+    "Carro;6"
+   ],
+   370.0
+  ],
+  [
+   "25 de Junho de 2022 - Sabado",
+   [
+    "Carro;3",
+    "Moto;1"
+   ],
+   160.0
+  ],
+  [
+   "27 de Junho de 2022 - Segunda",
+   [
+    "Carro;4",
+    "Moto;3"
+   ],
+   240.0
+  ],
+  [
+   "28 de Junho de 2022 - Terca",
+   [
+    "Carro;4",
+    "Moto;1"
+   ],
+   190.0
+  ],
+  [
+   "29 de Junho de 2022 - Quarta",
+   [
+    "Carro;3",
+    "Moto;1"
+   ],
+   180.0
+  ],
+  [
+   "30 de Junho de 2022 - Quinta",
+   [
+    "Carro;3",
+    "Moto;1"
+   ],
+   200.0
   ]
  ],
- "Julho": [],
+ "Julho": [
+  [
+   "1 de Julho de 2022 - Sexta",
+   [
+    "Carro;3",
+    "Moto;2"
+   ],
+   160.0
+  ],
+  [
+   "2 de Julho de 2022 - Sabado",
+   [
+    "Carro;8",
+    "Moto;1"
+   ],
+   430.0
+  ],
+  [
+   "4 de Julho de 2022 - Segunda",
+   [
+    "Carro;7",
+    "Moto;1"
+   ],
+   380.0
+  ],
+  [
+   "5 de Julho de 2022 - Terca",
+   [
+    "Carro;3",
+    "Moto;2"
+   ],
+   230.0
+  ],
+  [
+   "6 de Julho de 2022 - Quarta",
+   [
+    "Carro;3",
+    "Moto;2"
+   ],
+   220.0
+  ],
+  [
+   "7 de Julho de 2022 - Quinta",
+   [
+    "Carro;2",
+    "Moto;4"
+   ],
+   150.0
+  ],
+  [
+   "8 de Julho de 2022 - Sexta",
+   [
+    "Carro;4",
+    "Moto;4"
+   ],
+   260.0
+  ],
+  [
+   "9 de Julho de 2022 - Sabado",
+   [
+    "Carro;5"
+   ],
+   250.0
+  ],
+  [
+   "10 de Julho de 2022 - Domingo",
+   [
+    "Carro;5",
+    "Moto;1"
+   ],
+   280.0
+  ],
+  [
+   "11 de Julho de 2022 - Segunda",
+   [
+    "Carro;7",
+    "Moto;2"
+   ],
+   450.0
+  ],
+  [
+   "12 de Julho de 2022 - Terca",
+   [
+    "Carro;6",
+    "Moto;1"
+   ],
+   480.0
+  ],
+  [
+   "13 de Julho de 2022 - Quarta",
+   [
+    "Carro;4",
+    "Moto;3"
+   ],
+   290.0
+  ]
+ ],
  "Agosto": [],
  "Setembro": [],
  "Outubro": [],

@@ -2,7 +2,7 @@ def datas():
     import datetime
     meses = ['Janeiro', 'Fevereiro', 'Marco', 'Abril', 'Maio', 'Junho',
              'Julho', 'Agosto', ' Setembro', 'Outubro', 'Novembro', 'Dezembro']
-    dias = {'Mon': 'Segunda', 'Tue': 'Terça', 'Wed': 'Quarta', 'Thu': 'Quinta',
+    dias = {'Mon': 'Segunda', 'Tue': 'Terca', 'Wed': 'Quarta', 'Thu': 'Quinta',
             'Fri': 'Sexta', 'Sat': 'Sabado', 'Sun': 'Domingo'}
     data = str(datetime.date.today()).split('-')
     dia_semana = datetime.date(int(data[0]), int(data[1]), int(data[2])).ctime()[0:3]
